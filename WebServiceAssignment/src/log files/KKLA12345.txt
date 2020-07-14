@@ -1,0 +1,7 @@
+201	30-10-1995	10-1 	(Creation succesful)
+202	30-10-1995	10-1 	(Creation unsuccesful)
+203	30-10-1995	10-1 	(Creation unsuccesful)
+201	30-10-1995	10-1 	(Creation succesful)
+201	30-10-1996	10-1 	(Creation succesful)
+202	30-10-1996	10-1 	(Creation unsuccesful)
+201	30-10-1995	10-1 	(Creation succesful)

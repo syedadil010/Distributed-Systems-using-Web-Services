@@ -1,0 +1,7 @@
+301	30-10-1995	10-1 	(Creation succesful)
+302	30-10-1995	10-1 	(Creation succesful)
+303	30-10-1995	10-1 	(Creation succesful)
+201	30-10-1996	10-1 	(Creation succesful)
+202	30-10-1996	10-1 	(Creation succesful)
+202	30-10-1995	10-1 	(deletion unsuccesful)
+301	30-10-1995	10-1 	(Creation succesful)

@@ -1,0 +1,10 @@
+101	30-10-1995	10-1 	6c9a300f-2692-4fec-b6ff-c619a5514cf7 booking successful in DVL
+101	30-10-1995	10-1 	6c9a300f-2692-4fec-b6ff-c619a5514cf7 booking successful
+201	30-10-1995	10-1 	0ff49618-ffa6-4aad-842a-faae7e0eeb49 booking successful in KKL
+201	30-10-1995	10-1 	0ff49618-ffa6-4aad-842a-faae7e0eeb49 booking successful
+30-10-1995	101	10-1 	booking cancellation successful in DVL
+201	30-10-1995	10-1 	0ff49618-ffa6-4aad-842a-faae7e0eeb49 change reservation successful in WST
+301	30-10-1995	10-1 	bd8ff4d0-1799-4684-890c-a7b023b8a6a3 booking successful
+101	30-10-1995	10-1 	239e65f9-9ee2-45e1-a196-502cabeeb304 booking successful in DVL
+101	30-10-1995	10-1 	239e65f9-9ee2-45e1-a196-502cabeeb304 booking successful
+102	30-10-1995	10-1 	limit reached

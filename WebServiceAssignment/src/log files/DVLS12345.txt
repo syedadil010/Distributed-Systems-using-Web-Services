@@ -1,0 +1,13 @@
+201	30-10-1995	10-1 	586d9bcd-59c9-4825-9b48-bd16bc419dc3	room booked in KKL
+201	30-10-1995	10-1 	586d9bcd-59c9-4825-9b48-bd16bc419dc3booking successful in DVL
+301	30-10-1995	10-1 	d91e68ed-e782-4c57-bc26-83c8c5044b8d booking successful
+301	30-10-1995	10-1 	d91e68ed-e782-4c57-bc26-83c8c5044b8d	room booked in WST
+301	30-10-1995	10-1 	d91e68ed-e782-4c57-bc26-83c8c5044b8dbooking successful in DVL
+30-10-1995	201	10-1 	booking cancellation successful in DVL
+	booking cancellation unsuccessful in KKL
+30-10-1995	301	10-1 	booking cancellation successful in DVL
+30-10-1995	101	10-1 	booking cancellation successful in DVL
+201	30-10-1996	10-1 	5a28d62c-b2da-4881-abe7-252cd4a55a01	room booked in KKL
+201	30-10-1996	10-1 	5a28d62c-b2da-4881-abe7-252cd4a55a01booking successful in DVL
+30-10-1996	201	10-1 	booking cancellation successful in DVL
+201	30-10-1995	10-1 	room doesn't exist change reservation successful in DVL

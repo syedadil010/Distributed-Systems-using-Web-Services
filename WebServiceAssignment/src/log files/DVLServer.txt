@@ -1,0 +1,47 @@
+101	30-10-1995	10-1 	(Creation succesful)
+102	30-10-1995	10-1 	(Creation succesful)
+103	30-10-1995	10-1 	(Creation succesful)
+201	30-10-1995	10-1 	586d9bcd-59c9-4825-9b48-bd16bc419dc3	room booked in KKL
+201	30-10-1995	10-1 	586d9bcd-59c9-4825-9b48-bd16bc419dc3booking successful in DVL
+301	30-10-1995	10-1 	d91e68ed-e782-4c57-bc26-83c8c5044b8d	room booked in WST
+301	30-10-1995	10-1 	d91e68ed-e782-4c57-bc26-83c8c5044b8dbooking successful in DVL
+101	30-10-1995	10-1 	c6e9c8bf-e466-45b2-8619-c417f65a8271	booking successful
+2local available timeslots
+2local available timeslots
+2local available timeslots
+DVL(2)  KKL(2)  WST(2)getavailable timeslots
+2local available timeslots
+3local available timeslots
+2local available timeslots
+DVL(2)  KKL(3)  WST(2)getavailable timeslots
+2local available timeslots
+3local available timeslots
+3local available timeslots
+DVL(2)  KKL(3)  WST(3)getavailable timeslots
+30-10-1995	101	10-1 	booking cancellation successful in DVL
+3local available timeslots
+3local available timeslots
+3local available timeslots
+DVL(3)  KKL(3)  WST(3)getavailable timeslots
+101	30-10-1995	10-1 	1db562f3-a0b5-45d3-a4e4-1ffdf373b1c6	booking successful
+3local available timeslots
+2local available timeslots
+2local available timeslots
+DVL(3)  KKL(2)  WST(2)getavailable timeslots
+201	30-10-1996	10-1 	(Creation succesful)
+202	30-10-1995	10-1 	(Creation succesful)
+202	30-10-1996	10-1 	(Creation succesful)
+201	30-10-1996	10-1 	5a28d62c-b2da-4881-abe7-252cd4a55a01	room booked in KKL
+201	30-10-1996	10-1 	5a28d62c-b2da-4881-abe7-252cd4a55a01booking successful in DVL
+201	30-10-1995	10-1 	room doesn't exist change reservation successful in DVL
+101	30-10-1995	10-1 	(Creation succesful)
+102	30-10-1995	10-1 	(Creation succesful)
+101	30-10-1995	10-1 	6c9a300f-2692-4fec-b6ff-c619a5514cf7	booking successful
+30-10-1995	101	10-1 	booking cancellation successful in DVL
+0local available timeslots
+2local available timeslots
+0local available timeslots
+101	30-10-1995	10-1 	239e65f9-9ee2-45e1-a196-502cabeeb304	booking successful
+101	30-10-1995	10-1 	(Creation succesful)
+101	30-10-1995	10-1 	b00fb48e-69eb-445b-8c69-e120cfc8d792	booking successful
+30-10-1995	101	10-1 	booking cancellation successful in DVL

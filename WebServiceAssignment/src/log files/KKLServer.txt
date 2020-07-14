@@ -1,0 +1,19 @@
+201	30-10-1995	10-1 	(Creation succesful)
+202	30-10-1995	10-1 	(Creation unsuccesful)
+203	30-10-1995	10-1 	(Creation unsuccesful)
+201	30-10-1995	10-1 	586d9bcd-59c9-4825-9b48-bd16bc419dc3	booking successful
+30-10-1995	201	10-1 	booking cancellation successful in DVL
+	booking cancellation unsuccessful in KKL
+101	30-10-1995	10-1 	1db562f3-a0b5-45d3-a4e4-1ffdf373b1c6	room booked in KKL
+101	30-10-1995	10-1 	1db562f3-a0b5-45d3-a4e4-1ffdf373b1c6	Booking Successful
+301	30-10-1995	10-1 	06319d86-57b4-4c1e-958f-315deb09272b	room booked in WST
+301	30-10-1995	10-1 	06319d86-57b4-4c1e-958f-315deb09272b	Booking Successful
+201	30-10-1995	10-1 	(Creation succesful)
+201	30-10-1996	10-1 	(Creation succesful)
+202	30-10-1996	10-1 	(Creation unsuccesful)
+201	30-10-1996	10-1 	5a28d62c-b2da-4881-abe7-252cd4a55a01	booking successful
+30-10-1996	201	10-1 	booking cancellation successful in DVL
+201	30-10-1995	10-1 	(Creation succesful)
+201	30-10-1995	10-1 	0ff49618-ffa6-4aad-842a-faae7e0eeb49	booking successful
+101	30-10-1995	10-1 	b00fb48e-69eb-445b-8c69-e120cfc8d792	room booked in KKL
+101	30-10-1995	10-1 	b00fb48e-69eb-445b-8c69-e120cfc8d792	Booking Successful
